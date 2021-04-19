@@ -89,7 +89,7 @@ function promptUser() {
 promptUser()
 	.then((answers) => generateMarkdown(answers))
 	.then((readme) => {
-		fs.writeFile('README.md', readme, (err) => {
+		fs.writeFile('./dist/README.md', readme, (err) => {
 			if (err) {
 				console.log(err);
 				return;
