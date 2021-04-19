@@ -8,6 +8,6 @@ An application that takes in user's input and generate a readme.md using node.js
 2. Run `node index` in terminal and answer all the questions
 
 ### Usage and demo
-![demo](./assets/readmedemo.gif)
+![demo](./assets/readme-demo.gif)
 
 

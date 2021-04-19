@@ -11,13 +11,13 @@
 6. [Questions](#questions)
 
 ## Project Description
-* An application that generates a Readme.md file to dist folder
+* An application that generate a readme.md file to dist folder
 
 ## Installation
 * npm install inquirer
 
 ## Usage Information
-* Bootcamp assignment
+* Generate a readme.md file using user's input
 
 ## Contributions
 * n/a
